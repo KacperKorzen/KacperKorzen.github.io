@@ -18,12 +18,12 @@ redirect_from:
 ------
 
 # Current engagements
-![Ilustration](/images/logo_oasis.png){: .align-left width="100px" height="100px"}
+![Ilustration](/images/logo_oasis.png){: .align-left width="50px" height="50px"}
 Data Scientist, Biomedical Engineer *From September 2021*
 
 <br/><br/><br/><br/>
 
-![Ilustration](/images/wut_mchtr.png){: .align-left width="100px" height="100px"}
+![Ilustration](/images/wut_mchtr.png){: .align-left width="150px" height="100px"}
 PhD Candidate *From September 2023*
 
 ------
