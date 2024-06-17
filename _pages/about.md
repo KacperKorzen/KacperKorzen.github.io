@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Ilustration](/images/pixlr-imagae.png){: .align-right width="300px"}
+![Ilustration](/images/pixlr-image.png){: .align-right width="300px"}
 
 👨🏻‍💻 I'm a PhD candidate at [Warsaw University of Technology](https://eng.pw.edu.pl)
 
@@ -19,7 +19,6 @@ redirect_from:
 
 # Current engagements
 
-======
 # Education
 
 ## Doctoral studies
@@ -33,8 +32,6 @@ redirect_from:
 ## Bachelor studies
 ### Warsaw University of Technology, Faculty of Mechatronics
 *Development of an algorithm for determining cardio- respiratory parameters from the plethysmographic curve*
-
-
 
 ------
 
