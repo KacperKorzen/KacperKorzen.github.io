@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-![Ilustration](/images/pixlr-imagae.png){: .allign-right width="300px"}
+![Ilustration](/images/pixlr-imagae.png){: .align-right width="300px"}
+
 👨🏻‍💻 I'm a PhD candidate at [Warsaw University of Technology](https://eng.pw.edu.pl)
 
 📚 My research interests are in using of machine learning models in medicine and sports.
 
 📈 I'm currently working towards my Doctoral's Theses in field of modelling trends in changes in cardiorespiratory parameters during training and determining their reference values in children playing sports.
-======
+
+------
 
 # Current engagements
 
