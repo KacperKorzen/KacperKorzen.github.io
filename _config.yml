@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Korzeniewski's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kacper Korzeniewski"
 description              : &description "personal description"
 url                      : https://kacperkorzen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ''# the subpath of your site, e.g. "/blog"
+baseurl                  : '' # the subpath of your site, e.g. "/blog"
 repository               : "kacperkorzen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -38,7 +38,6 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  WUT              : "https://repo.pw.edu.pl/info/author/WUTcb01174a6b234073b355f3c4b7428308?r=author&ps=20&tab=&lang=en&title=Person%2Bprofile%2B%25E2%2580%2593%2BKacper%2BKorzeniewski%2B%25E2%2580%2593%2BWarsaw%2BUniversity%2Bof%2BTechnology&pn=1&cid=929888"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
