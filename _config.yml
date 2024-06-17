@@ -21,13 +21,13 @@ repository               : "kacperkorzen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilowe.png"
+  avatar           : "profilowe_kadr.png"
   name             : "Kacper Korzeniewski"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientists & Biomedical Engineer"
+  bio              : "Data Scientists & Biomedical Engineer, PhD candidate"
   location         : "Warsaw, Poland"
   employer         : "Warsaw University of Technology"
-  uri              : # URL
+  uri              : "https://repo.pw.edu.pl/info/author/WUTcb01174a6b234073b355f3c4b7428308?r=author&ps=20&tab=&lang=en&title=Person%2Bprofile%2B%25E2%2580%2593%2BKacper%2BKorzeniewski%2B%25E2%2580%2593%2BWarsaw%2BUniversity%2Bof%2BTechnology&pn=1&cid=929888"
   email            : "kacper.korzeniewski.dokt@pw.edu.pl" 
 
   # Academic websites
