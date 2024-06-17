@@ -18,29 +18,30 @@ redirect_from:
 ------
 
 # Current engagements
-![Ilustration](/images/logo_oasis.png){: .align-left width="75px" height="75px"}
-Data Scientist, Biomedical Engineer *From September 2021*
+</br>
 
-<br/>
+![Ilustration](/images/logo_oasis.png){: .align-left width="65px" height="65px"}
+Data Scientist, Biomedical Engineer <span style="color:blue">*From September 2021*</span>
 
 ![Ilustration](/images/wut_mchtr.png){: .align-left width="150px" height="100px"}
-PhD Candidate *From September 2023*
+PhD Candidate <span style="color:blue">*From September 2023*</span>
 
 ------
 
 # Education
+</br>
 
-## Doctoral studies
-### Warsaw University of Technology
+### Doctoral studies
+**Warsaw University of Technology**
 *Modelling trends in changes in cardiorespiratory parameters during training and determining their reference values in children playing sports*
 
-## Master studies
-### Warsaw University of Technology, Faculty of Electrical Engineering
+### Master studies in Computer Science
+**Warsaw University of Technology, Faculty of Electrical Engineering**
 *Generating image captions with attention mechanism*
 
-## Bachelor studies
-### Warsaw University of Technology, Faculty of Mechatronics
-*Development of an algorithm for determining cardio- respiratory parameters from the plethysmographic curve*
+### Bachelor studies in Biomedical Engineering
+**Warsaw University of Technology, Faculty of Mechatronics**
+*Development of an algorithm for determining cardiorespiratory parameters from the plethysmographic curve*
 
 ------
 
