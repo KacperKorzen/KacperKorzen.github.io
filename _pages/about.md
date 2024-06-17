@@ -18,18 +18,18 @@ redirect_from:
 ------
 
 # Current engagements
-</br>
+<br/>
 
-![Ilustration](/images/logo_oasis.png){: .align-left width="65px" height="65px"}
-Data Scientist, Biomedical Engineer <span style="color:blue">*From September 2021*</span>
+![Ilustration](/images/logo_oasis.png){: .align-left width="50px" height="50px"}
+Data Scientist, Biomedical Engineer <span style="color:#6AABC5">*From September 2021*</span>
 
 ![Ilustration](/images/wut_mchtr.png){: .align-left width="150px" height="100px"}
-PhD Candidate <span style="color:blue">*From September 2023*</span>
+PhD Candidate <span style="color:#6AABC5">*From September 2023*</span>
 
 ------
 
 # Education
-</br>
+<br/>
 
 ### Doctoral studies
 **Warsaw University of Technology**
