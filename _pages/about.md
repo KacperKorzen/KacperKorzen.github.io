@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Ilustration](/images/pixlr-image.png){: .align-right width="350px"}
+![Ilustration](/images/pixlr-image.png){: .align-right width="320px"}
 
 👨🏻‍💻 I'm a PhD candidate at [Warsaw University of Technology](https://eng.pw.edu.pl)
 
@@ -18,10 +18,10 @@ redirect_from:
 ------
 
 # Current engagements
-![Ilustration](/images/logo_oasis.png){: .align-left width="50px" height="50px"}
+![Ilustration](/images/logo_oasis.png){: .align-left width="75px" height="75px"}
 Data Scientist, Biomedical Engineer *From September 2021*
 
-<br/><br/><br/><br/>
+<br/>
 
 ![Ilustration](/images/wut_mchtr.png){: .align-left width="150px" height="100px"}
 PhD Candidate *From September 2023*
