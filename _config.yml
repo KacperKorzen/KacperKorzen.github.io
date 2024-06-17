@@ -24,11 +24,11 @@ author:
   avatar           : "profilowe_kadr.png"
   name             : "Kacper Korzeniewski"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientists & Biomedical Engineer, PhD candidate"
+  bio              : "Data Scientists & Biomedical Engineer, PhD Candidate"
   location         : "Warsaw, Poland"
   employer         : "Warsaw University of Technology"
-  uri              : "https://repo.pw.edu.pl/info/author/WUTcb01174a6b234073b355f3c4b7428308?r=author&ps=20&tab=&lang=en&title=Person%2Bprofile%2B%25E2%2580%2593%2BKacper%2BKorzeniewski%2B%25E2%2580%2593%2BWarsaw%2BUniversity%2Bof%2BTechnology&pn=1&cid=929888"
   email            : "kacper.korzeniewski.dokt@pw.edu.pl" 
+  uri              : #
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  WUT              : "https://repo.pw.edu.pl/info/author/WUTcb01174a6b234073b355f3c4b7428308?r=author&ps=20&tab=&lang=en&title=Person%2Bprofile%2B%25E2%2580%2593%2BKacper%2BKorzeniewski%2B%25E2%2580%2593%2BWarsaw%2BUniversity%2Bof%2BTechnology&pn=1&cid=929888"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
