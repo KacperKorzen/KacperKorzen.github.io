@@ -1,6 +1,5 @@
 ---
 title: "Evaluation of the performance of GPT-3.5 and GPT-4 on the Polish Medical Final Examination"
-authors: Maciej Rosoł, Jakub Gąsior, Jonasz Łaba, Kacper Korzeniewski, Marcel Młyńczak
 collection: publications
 permalink: /publication/2023-11-22-Evaluation-of-the-performance-of-GPT-3.5-and-GPT-4
 excerpt: 'The study aimed to evaluate the performance of two Large Language Models (LLMs): ChatGPT (based on GPT-3.5) and GPT-4 with two temperature parameter values, on the Polish Medical Final Examination (MFE).'
