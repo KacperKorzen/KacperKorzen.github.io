@@ -19,7 +19,7 @@ redirect_from:
 
 # Current engagements
 
-[![Ilustration](/images/logo_oasis.png)](https://oasis-diagnostics.com){: .align-left width="60px" height="60px"} \
+[![Ilustration](/images/logo_oasis.png){: .align-left width="60px" height="60px"}](https://oasis-diagnostics.com) \
 Data Scientist and Biomedical Engineer <span style="color:#52ADC8">*From September 2021*</span>
 
 [![Ilustration](/images/wut_mchtr.png)](https://www.mchtr.pw.edu.pl/www_mchtr_eng){: .align-left width="150px" height="100px"} \
