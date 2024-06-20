@@ -9,7 +9,7 @@ paperurl: 'https://www.medrxiv.org/content/10.1101/2024.06.03.24308379v1.full.pd
 citation: 'Borycka, K., Mlynczak, M., Rosol, M., Korzeniewski, K., Iwanowski, P., Herman, H., ... & Spinelli, A. (2024). Detection of obstetric anal sphincter injuries using machine learning-assisted impedance spectroscopy: a prospective, comparative, multicenter clinical study. medRxiv, 2024-06. https://doi.org/10.1101/2024.06.03.24308379'
 ---
 **Authors:**
-Katarzyna Borycka, Marcel Młyńczak, Maciej Rosoł, Kacper Korzeniewski, Piotr Iwanowski, Hynek Heřman, Petr Janku, Małgorzata Uchman-Musielak, Erik Dosedla, Enrique Gonzalez Diaz, Iwona Sudoł-Szopińska, Michał Mik, Carlo Ratto, Antonino Spinelli
+Katarzyna Borycka, Marcel Młyńczak, Maciej Rosoł, **Kacper Korzeniewski**, Piotr Iwanowski, Hynek Heřman, Petr Janku, Małgorzata Uchman-Musielak, Erik Dosedla, Enrique Gonzalez Diaz, Iwona Sudoł-Szopińska, Michał Mik, Carlo Ratto, Antonino Spinelli
 
 **Abstract:**
 
