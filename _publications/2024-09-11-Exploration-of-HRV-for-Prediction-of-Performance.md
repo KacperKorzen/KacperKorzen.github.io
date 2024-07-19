@@ -6,7 +6,7 @@ excerpt: 'The study was to explore prediction quality of resting short-term hear
 date: 2024-09-11
 venue: 'Computing in Cardiology conference'
 paperurl: 'https://cinc.org/2024/Program/accepted/136.pdf'
-citation: 'Korzeniewski, K., Gąsior, J., Mikielewicz, M., Rosol, M., Makucha, R., Mlynczak, M., (2024). Exploration of Heart Rate Variability for the Prediction of Performance in Youth Footballers. CinC, 2024-09.'
+citation: 'Korzeniewski, K., Gąsior, J., Mikielewicz, M., Rosol, M., Makucha, R., Mlynczak, M., (2024). Exploration of Heart Rate Variability for the Prediction of Performance in Youth Footballers. 2024 Computing in Cardiology (CinC), Karlsruhe, Germany, 2024-09.'
 ---
 **Authors:**
 **Kacper Korzeniewski**, Jakub S. Gąsior, Magdalena Mikielewicz, Maciej Rosoł, Robert Makuch and Marcel Młyńczak
