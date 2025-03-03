@@ -9,11 +9,11 @@ redirect_from:
 
 ![Ilustration](/images/pixlr-image.png){: .align-right width="320px"}
 
-👨🏻‍💻 I'm a PhD candidate at [Warsaw University of Technology](https://eng.pw.edu.pl)
+I'm a PhD candidate at [Warsaw University of Technology](https://eng.pw.edu.pl)
 
-📚 My research interests are in using machine learning models in medicine and sports.
+My research interests are in using machine learning models in medicine and sports.
 
-📈 I'm currently working towards my Doctoral's Theses in field of modelling trends in changes in cardiorespiratory parameters during training and determining their reference values in children playing sports.
+I'm currently working towards my Doctoral's Theses in field of modelling trends in changes in cardiorespiratory parameters during training and determining their reference values in children playing sports.
 
 ------
 
