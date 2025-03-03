@@ -5,8 +5,8 @@ permalink: /publication_publications/2024-09-11-Exploration-of-HRV-for-Predictio
 excerpt: 'The study was to explore prediction quality of resting short-term heart rate variability (HRV) parameters with endurance performance in youth footballers.'
 date: 2024-09-11
 venue: 'Computing in Cardiology conference'
-paperurl: 'https://cinc.org/2024/Program/accepted/136.pdf'
-citation: 'Korzeniewski, K., Gąsior, J., Mikielewicz, M., Rosol, M., Makucha, R., Mlynczak, M., (2024). Exploration of Heart Rate Variability for the Prediction of Performance in Youth Footballers. 2024 Computing in Cardiology (CinC), Karlsruhe, Germany, 2024-09.'
+paperurl: 'https://www.cinc.org/archives/2024/pdf/CinC2024-136.pdf'
+citation: 'Korzeniewski, K., Gąsior, J. S., Mikielewicz, M., Rosoł, M., Makuch, R., & Młyńczak, M. (2024). Exploration of Heart Rate Variability for the Prediction of Performance in Youth Footballers. Age, 13, 2-3.'
 ---
 **Authors:**
 **Kacper Korzeniewski**, Jakub S. Gąsior, Magdalena Mikielewicz, Maciej Rosoł, Robert Makuch and Marcel Młyńczak
