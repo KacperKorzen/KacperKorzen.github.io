@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Ilustration](/images/pixlr-image.png){: .align-right width="320px"}
+![Ilustration](/images/word_cloud.png){: .align-right width="320px"}
 
 I'm a PhD candidate at [Warsaw University of Technology](https://eng.pw.edu.pl)
 
