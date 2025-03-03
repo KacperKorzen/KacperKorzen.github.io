@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![Ilustration](/images/word_cloud.png){: .align-right width="320px"}
-
 I'm a PhD candidate at [Warsaw University of Technology](https://eng.pw.edu.pl)
 
 My research interests are in using machine learning models in medicine and sports.
