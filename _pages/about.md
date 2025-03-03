@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "👋🏻 Hello there, I'm Kacper!"
+title: "Hello there, I'm Kacper!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<!---
 ![Ilustration](/images/pixlr-image.png){: .align-right width="320px"}
-
+-->
 I'm a PhD candidate at [Warsaw University of Technology](https://eng.pw.edu.pl)
 
 My research interests are in using machine learning models in medicine and sports.
