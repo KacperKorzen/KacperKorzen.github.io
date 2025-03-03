@@ -5,7 +5,7 @@ permalink: /publication_publications/2024-12-02-ML-Classification-of-Pediatric-H
 excerpt: 'This study aimed to evaluate the accuracy of machine learning (ML) techniques in classifying pediatric individuals—cardiological patients, healthy participants, and athletes—based on cardiorespiratory features from short-term static measurements'
 date: 2024-12-02
 venue: 'JCM'
-paperurl: 'https://www.mdpi.com/2077-0383/13/23/7353b'
+paperurl: 'https://www.mdpi.com/2077-0383/13/23/7353'
 citation: 'Rosoł M, Gąsior J, Korzeniewski K, i in. Machine Learning Classification of Pediatric Health Status Based on Cardiorespiratory Signals with Causal and Information Domain Features Applied—An Exploratory Study. Journal of Clinical Medicine. 2024;13:1–28. doi:10.3390/jcm13237353'
 ---
 **Authors:**
