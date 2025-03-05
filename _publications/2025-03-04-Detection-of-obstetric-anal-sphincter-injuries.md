@@ -5,7 +5,7 @@ permalink: /publication_publications/22025-03-04-Detection-of-obstetric-anal-sph
 excerpt: 'The study aimed to evaluate the clinical performance and safety of the ONIRY system for obstetric anal sphincter injuries (OASI) detection versus three-dimensional endoanal ultrasound (EAUS).'
 date: 2025-03-04
 venue: 'Scientific Reports'
-paperurl: 'https://www.medrxiv.org/content/10.1101/2024.06.03.24308379v2'
+paperurl: 'https://www.nature.com/articles/s41598-025-92392-z'
 citation: 'Borycka, K., Młyńczak, M., Rosoł, M. et al. Detection of obstetric anal sphincter injuries using machine learning-assisted impedance spectroscopy: a prospective, comparative, multicentre clinical study. Sci Rep 15, 7522 (2025). https://doi.org/10.1038/s41598-025-92392-z'
 ---
 **Authors:**
