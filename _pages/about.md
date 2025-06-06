@@ -17,11 +17,18 @@ I'm currently working towards my Doctoral's Theses in field of modelling trends 
 
 # Current engagements
 
-[![Ilustration](/images/logo_oasis.png){: .align-left width="60px" height="60px"}](https://oasis-diagnostics.com) \
-Data Scientist and Biomedical Engineer <span style="color:#52ADC8">*From September 2021*</span>
+[![Ilustration](/images/Euronet_logo.png){: .align-left width="150px" height="100px"}](https://www.euronetworldwide.com) \
+Data Scientist Innovation Specialist <span style="color:#52ADC8">*From May 2025*</span>
 
 [![Ilustration](/images/wut_mchtr.png){: .align-left width="150px" height="100px"}](https://www.mchtr.pw.edu.pl/www_mchtr_eng) \
 Grant Contractor <span style="color:#52ADC8">*From November 2023*</span>
+
+------
+
+# Past engagements
+
+[![Ilustration](/images/logo_oasis.png){: .align-left width="60px" height="60px"}](https://oasis-diagnostics.com) \
+Data Scientist and Biomedical Engineer <span style="color:#52ADC8">*From September 2021 to May 2025*</span>
 
 ------
 
