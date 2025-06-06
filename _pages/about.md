@@ -17,7 +17,7 @@ I'm currently working towards my Doctoral's Theses in field of modelling trends 
 
 # Current engagements
 
-[![Ilustration](/images/Euronet_logo.png){: .align-left width="150px" height="100px"}](https://www.euronetworldwide.com) \
+[![Ilustration](/images/Euronet_Logo.png){: .align-left width="150px" height="100px"}](https://www.euronetworldwide.com) \
 Data Scientist Innovation Specialist <span style="color:#52ADC8">*From May 2025*</span>
 
 [![Ilustration](/images/wut_mchtr.png){: .align-left width="150px" height="100px"}](https://www.mchtr.pw.edu.pl/www_mchtr_eng) \
